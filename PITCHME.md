@@ -1,7 +1,6 @@
-# Biosketch
-## **Daniel J. Valentino, Ph.D.**
+# **Daniel J. Valentino, Ph.D.**
 
-### *Scientist, Entrepreneur*
+## *Scientist, Entrepreneur*
 
 ### daniel.valentino@gmail.com
 
