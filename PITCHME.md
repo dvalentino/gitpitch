@@ -1,10 +1,10 @@
 # Biosketch
-** Daniel J. Valentino, Ph.D. **
+## **Daniel J. Valentino, Ph.D. **
 
-*Scientist, Entrepreneur*
+### *Scientist, Entrepreneur*
 
-daniel.valentino@gmail.com
+### daniel.valentino@gmail.com
 
-617-682-9729
+### 617-682-9729
 ----
 ## The end.
