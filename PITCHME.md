@@ -1,6 +1,7 @@
-## **Daniel J. Valentino, Ph.D.**
+# Online Resume
+## Daniel J. Valentino, Ph.D.
 
-### *Scientist, Entrepreneur*
+### *Scientist, Entrepreneur, Business Leader*
 
 #### daniel.valentino@gmail.com
 
