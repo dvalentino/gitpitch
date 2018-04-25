@@ -13,6 +13,7 @@
 2. Medical Informatics
 3. Patient Dosimetry
 4. Analog Occupational Dosimetry
+5. Computed Radiography Scanner
 
 ---
 # Education
@@ -25,6 +26,6 @@
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjYwNjQ2OSwtNjMyNDc2MTQ0LDk3MT
-UxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5M119
+eyJoaXN0b3J5IjpbNzcxOTExODc3LC02MzI0NzYxNDQsOTcxNT
+E4NzYyLC01MjA2NDQyODYsLTEyNDM4MjkzXX0=
 -->
