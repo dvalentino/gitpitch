@@ -16,10 +16,10 @@
 
 ---
 # Education
-
-| :---: | :---: | :---: |
-| Bachelor of Science in Nuclear Chemistry | School of Physical Sciences | University of California at Irvine | 
-| Bachelor of Science in Biochemistry | School of Biological Sciences | University of California at Irvine (UCI) |
+| Bachelor of Science in Nuclear Chemistry School of Physical Sciences | University of California at Irvine      |
+|----------------------------------------------------------------------|-----------------------------------------|
+| Bachelor of Science in Biochemistry School of Biological Sciences    | University of California at Irvine      |
+| Ph.D. in Biomedical Physics                                          | University of California at Los Angeles |
 
 
 ## University of California at Los Angeles
@@ -27,6 +27,6 @@
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyND
-M4MjkzXX0=
+eyJoaXN0b3J5IjpbLTExNjExOTE5MTgsOTcxNTE4NzYyLC01Mj
+A2NDQyODYsLTEyNDM4MjkzXX0=
 -->
