@@ -9,10 +9,11 @@
 
 ---
 # Projects
-A.	Digital Occupational Radiation Dosimetry
+A.   Digital Occupational Radiation Dosimetry
 B.   Medical Informatics
-C. Patient Dosimetry
+C.   Patient Dosimetry
 D. Analog Occupational Dosimetry
+
 ---
 # Education
 ## University of California at Irvine
@@ -23,5 +24,5 @@ D. Analog Occupational Dosimetry
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ2MDUxNzIsLTEyNDM4MjkzXX0=
+eyJoaXN0b3J5IjpbLTUyMDY0NDI4NiwtMTI0MzgyOTNdfQ==
 -->
