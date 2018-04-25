@@ -9,9 +9,11 @@
 
 ---
 # Projects
-## Radiati
+## A. Occupational Radiation Dosimetry
+## B. Medical Informatics
+## C. 
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI5MzA4OThdfQ==
+eyJoaXN0b3J5IjpbLTE2Mzg0MDUxOTNdfQ==
 -->
