@@ -5,13 +5,14 @@ title:  Online Resume for Daniel J. Valentino, Ph.D.
 ## Online Resume
 **Daniel J. Valentino, Ph.D.**
 
-*Scientist, Entrepreneur, Business Leader*
+*Physicist, Entrepreneur, Business Leader*
 
 daniel.valentino@gmail.com
 
 617-682-9729
 
-
+### Currently
+Working with a creative team of device physicists 
 ---
 # Projects
 1. Digital Occupational Radiation Dosimetry
@@ -41,7 +42,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI2NjE4MDYsLTIzMzgxMzgxMSwxNT
+eyJoaXN0b3J5IjpbLTE1OTMyMzgyNTEsLTIzMzgxMzgxMSwxNT
 gwMzc2MTgyLC02MzI0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQy
 ODYsLTEyNDM4MjkzXX0=
 -->
