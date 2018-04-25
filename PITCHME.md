@@ -9,21 +9,20 @@
 
 ---
 # Projects
-A. Digital Occupational Radiation Dosimetry
-B.   Medical Informatics
-C.   Patient Dosimetry
-D. Analog Occupational Dosimetry
+1. Digital Occupational Radiation Dosimetry
+2. Medical Informatics
+3. Patient Dosimetry
+4. Analog Occupational Dosimetry
 
 ---
 # Education
-## University of California at Irvine
-### Bachelor of Science in Nuclear Chemistry, School of Physical Sciences
+| University of California at Irvine | Bachelor of Science in Nuclear Chemistry | School of Physical Sciences |
 ### Bachelor of Science in Biochemistry, School of Biological Sciences
 ## University of California at Los Angeles
 ### Ph.D. in Biomedical Physics
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTk1NTMzNDIsLTUyMDY0NDI4NiwtMT
+eyJoaXN0b3J5IjpbLTE4Mzg4NjQ5MzcsLTUyMDY0NDI4NiwtMT
 I0MzgyOTNdfQ==
 -->
