@@ -1,3 +1,7 @@
+---
+layout: cv
+title:  Online Resume for Daniel J. Valentino, Ph.D.
+---
 ## Online Resume
 **Daniel J. Valentino, Ph.D.**
 
@@ -6,6 +10,7 @@
 daniel.valentino@gmail.com
 
 617-682-9729
+
 
 ---
 # Projects
@@ -36,7 +41,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzgxMzgxMSwxNTgwMzc2MTgyLC02Mz
-I0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyNDM4Mjkz
-XX0=
+eyJoaXN0b3J5IjpbLTE4NjI2NjE4MDYsLTIzMzgxMzgxMSwxNT
+gwMzc2MTgyLC02MzI0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQy
+ODYsLTEyNDM4MjkzXX0=
 -->
