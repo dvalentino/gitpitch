@@ -13,9 +13,12 @@
 ## B. Medical Informatics
 ## C. 
 ---
-
+# Education
+## University of California at Irvine
+### Nuclear Chemistry
+## University of California at Los Angeles
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjgxODQ3NjJdfQ==
+eyJoaXN0b3J5IjpbLTEzNzM1NTY3MzBdfQ==
 -->
