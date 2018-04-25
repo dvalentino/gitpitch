@@ -12,7 +12,7 @@ daniel.valentino@gmail.com
 617-682-9729
 
 ### Currently
-Leading a creative team of device physicists, engineers, data scientists and market innovators as t
+Leading a creative team of device physicists, engineers, data scientists and market innovators as the Vice President of Innovation and Technology at LANDAUER / FLUKE Health Solutions.
 ---
 # Projects
 1. Digital Occupational Radiation Dosimetry
@@ -42,7 +42,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwMTYwMTA5LC0yMzM4MTM4MTEsMTU4MD
-M3NjE4MiwtNjMyNDc2MTQ0LDk3MTUxODc2MiwtNTIwNjQ0Mjg2
-LC0xMjQzODI5M119
+eyJoaXN0b3J5IjpbLTExNTk5NTY2MzUsLTIzMzgxMzgxMSwxNT
+gwMzc2MTgyLC02MzI0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQy
+ODYsLTEyNDM4MjkzXX0=
 -->
