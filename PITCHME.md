@@ -21,7 +21,7 @@ A new digital dosimetry platform for protecting the health and safety of workers
 +++
 ## Medical Informatics
 a. Medical Physics Test Automation System
-b. Medical In 
+b. Medical Image Dose Analysis System
 ---
 # Education
 |                                Degree                                |                University               |
@@ -33,7 +33,7 @@ b. Medical In
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTY5MTcyMiwxNTgwMzc2MTgyLC02Mz
-I0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyNDM4Mjkz
-XX0=
+eyJoaXN0b3J5IjpbMTcxMjIxNzAyLDE1ODAzNzYxODIsLTYzMj
+Q3NjE0NCw5NzE1MTg3NjIsLTUyMDY0NDI4NiwtMTI0MzgyOTNd
+fQ==
 -->
