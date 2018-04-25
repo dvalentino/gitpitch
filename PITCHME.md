@@ -20,7 +20,8 @@ daniel.valentino@gmail.com
 A new digital dosimetry platform for protecting the health and safety of workers exposed to radiation in the workplace
 +++
 ## Medical Informatics
-a 
+a. Medical Physics Test Automation System
+b. Medical In 
 ---
 # Education
 |                                Degree                                |                University               |
@@ -32,7 +33,7 @@ a
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTc1MTE2NCwxNTgwMzc2MTgyLC02Mz
+eyJoaXN0b3J5IjpbMTE0OTY5MTcyMiwxNTgwMzc2MTgyLC02Mz
 I0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyNDM4Mjkz
 XX0=
 -->
