@@ -18,9 +18,9 @@
 ### Bachelor of Science in Nuclear Chemistry, School of Physical Sciences
 ### Bachelor of Science in Biochemistry, School of Biological Sciences
 ## University of California at Los Angeles
-### 
+### Ph.D. in Biomedical Physics
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg0Mzg0NDRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDM4MjkzXX0=
 -->
