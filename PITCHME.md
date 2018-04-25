@@ -1,8 +1,7 @@
 ---
 title:  Online Resume for Daniel J. Valentino, Ph.D.
 ---
-NOTE:
-http://elipapa.github.io/markdown-cv/
+**NOTE:  http://elipapa.github.io/markdown-cv/**
 
 ---
 ## Online Resume
@@ -14,8 +13,11 @@ daniel.valentino@gmail.com
 
 617-682-9729
 
-### Currently
++++
+## Currently
+
 Leading a creative team of device physicists, engineers, data scientists and market innovators as the Vice President of Innovation and Technology at LANDAUER / FLUKE Health Solutions.
+
 ---
 # Projects
 1. Digital Occupational Radiation Dosimetry
@@ -45,7 +47,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDkzOTcwOSwtMTIwMjgwNjY0OCwtMj
+eyJoaXN0b3J5IjpbMjAyNjQ4MTMyOSwtMTIwMjgwNjY0OCwtMj
 MzODEzODExLDE1ODAzNzYxODIsLTYzMjQ3NjE0NCw5NzE1MTg3
 NjIsLTUyMDY0NDI4NiwtMTI0MzgyOTNdfQ==
 -->
