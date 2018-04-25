@@ -12,7 +12,7 @@ daniel.valentino@gmail.com
 617-682-9729
 
 ### Currently
-Working with a creative team of device physicists 
+Leading a creative team of device physicists, engineers, data scientists and innovation team
 ---
 # Projects
 1. Digital Occupational Radiation Dosimetry
@@ -42,7 +42,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTMyMzgyNTEsLTIzMzgxMzgxMSwxNT
-gwMzc2MTgyLC02MzI0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQy
-ODYsLTEyNDM4MjkzXX0=
+eyJoaXN0b3J5IjpbMTIwMzY1Nzg2MCwtMjMzODEzODExLDE1OD
+AzNzYxODIsLTYzMjQ3NjE0NCw5NzE1MTg3NjIsLTUyMDY0NDI4
+NiwtMTI0MzgyOTNdfQ==
 -->
