@@ -9,8 +9,8 @@
 
 ---
 # Projects
-A. Occupational Radiation Dosimetry
-B. Medical Informatics
+A.	Digital Occupational Radiation Dosimetry
+B.   Medical Informatics
 C. Patient Dosimetry
 D. Analog Occupational Dosimetry
 ---
@@ -23,5 +23,5 @@ D. Analog Occupational Dosimetry
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDg3NTI1NiwtMTI0MzgyOTNdfQ==
+eyJoaXN0b3J5IjpbLTExMTQ2MDUxNzIsLTEyNDM4MjkzXX0=
 -->
