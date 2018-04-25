@@ -17,7 +17,11 @@ daniel.valentino@gmail.com
 6. Multi-scale Digital Image Enhancement Software
 +++
 ## Digital Occupational Radiation Dosimetry
-A new digital dosimetry platform for protecting the health and
+A new digital dosimetry platform for protecting the health and safety of workers exposed to radiation in the workplace
++++
+## Medical Informatics
+a 
+---
 # Education
 |                                Degree                                |                University               |
 |:--------------------------------------------------------------------|:---------------------------------------|
@@ -28,7 +32,7 @@ A new digital dosimetry platform for protecting the health and
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE3MzIxOTMsMTU4MDM3NjE4MiwtNj
-MyNDc2MTQ0LDk3MTUxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5
-M119
+eyJoaXN0b3J5IjpbLTM5MTc1MTE2NCwxNTgwMzc2MTgyLC02Mz
+I0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyNDM4Mjkz
+XX0=
 -->
