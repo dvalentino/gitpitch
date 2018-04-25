@@ -1,4 +1,4 @@
-# Online Resume
+## Online Resume
 **Daniel J. Valentino, Ph.D.**
 
 *Scientist, Entrepreneur, Business Leader*
@@ -27,6 +27,6 @@ daniel.valentino@gmail.com
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzQwNTA1OSwtNjMyNDc2MTQ0LDk3MT
+eyJoaXN0b3J5IjpbMTU4MDM3NjE4MiwtNjMyNDc2MTQ0LDk3MT
 UxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5M119
 -->
