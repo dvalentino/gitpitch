@@ -23,11 +23,12 @@
 | Ph.D. in Biomedical Physics                                          | University of California at Los Angeles |
 
 
+
 ## University of California at Los Angeles
 ### Ph.D. in Biomedical Physics
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDI3ODcwMDAsOTcxNTE4NzYyLC01Mj
-A2NDQyODYsLTEyNDM4MjkzXX0=
+eyJoaXN0b3J5IjpbMTgzNDAxODY1MCw5NzE1MTg3NjIsLTUyMD
+Y0NDI4NiwtMTI0MzgyOTNdfQ==
 -->
