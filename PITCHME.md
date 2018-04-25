@@ -1,7 +1,10 @@
 # Online Resume
 **Daniel J. Valentino, Ph.D.**
+
 *Scientist, Entrepreneur, Business Leader*
+
 daniel.valentino@gmail.com
+
 617-682-9729
 
 ---
@@ -24,6 +27,6 @@ daniel.valentino@gmail.com
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUwNTYzMzMsLTYzMjQ3NjE0NCw5Nz
-E1MTg3NjIsLTUyMDY0NDI4NiwtMTI0MzgyOTNdfQ==
+eyJoaXN0b3J5IjpbLTg4NzQwNTA1OSwtNjMyNDc2MTQ0LDk3MT
+UxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5M119
 -->
