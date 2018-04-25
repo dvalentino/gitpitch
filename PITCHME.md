@@ -15,10 +15,11 @@
 ---
 # Education
 ## University of California at Irvine
-### Nuclear Chemistry
+### Bachelor of Science in Nuclear Chemistry
+### Bachelor of Science in Biochemistry
 ## University of California at Los Angeles
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM1NTY3MzBdfQ==
+eyJoaXN0b3J5IjpbLTE2NDI2MDMxNzFdfQ==
 -->
