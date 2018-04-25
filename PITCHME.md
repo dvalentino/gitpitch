@@ -1,5 +1,7 @@
 ---
 title:  Online Resume for Daniel J. Valentino, Ph.D.
+NOTE:
+http://elipapa.github.io/markdown-cv/
 
 ---
 ## Online Resume
@@ -42,7 +44,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI4MDY2NDgsLTIzMzgxMzgxMSwxNT
-gwMzc2MTgyLC02MzI0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQy
-ODYsLTEyNDM4MjkzXX0=
+eyJoaXN0b3J5IjpbLTU2Njk3ODg1NiwtMTIwMjgwNjY0OCwtMj
+MzODEzODExLDE1ODAzNzYxODIsLTYzMjQ3NjE0NCw5NzE1MTg3
+NjIsLTUyMDY0NDI4NiwtMTI0MzgyOTNdfQ==
 -->
