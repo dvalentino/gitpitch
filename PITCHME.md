@@ -15,8 +15,9 @@ daniel.valentino@gmail.com
 4. Analog Occupational Dosimetry
 5. Computed Radiography System
 6. Multi-scale Digital Image Enhancement Software
-
----
++++
+## Digital Occupational Radiation Dosimetry
+A new digital dosimetry platform for protecting the health and
 # Education
 |                                Degree                                |                University               |
 |:--------------------------------------------------------------------|:---------------------------------------|
@@ -27,6 +28,7 @@ daniel.valentino@gmail.com
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDM3NjE4MiwtNjMyNDc2MTQ0LDk3MT
-UxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5M119
+eyJoaXN0b3J5IjpbLTIwNzE3MzIxOTMsMTU4MDM3NjE4MiwtNj
+MyNDc2MTQ0LDk3MTUxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5
+M119
 -->
