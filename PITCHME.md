@@ -14,7 +14,7 @@
 3. Patient Dosimetry
 4. Analog Occupational Dosimetry
 5. Computed Radiography System
-6. Multi-scale Digital Image Enhancement
+6. Multi-scale Digital Image Enhancement Software
 
 ---
 # Education
@@ -27,6 +27,6 @@
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjg2MTgzNSwtNjMyNDc2MTQ0LDk3MT
+eyJoaXN0b3J5IjpbMTg3OTc0MDQ4MCwtNjMyNDc2MTQ0LDk3MT
 UxODc2MiwtNTIwNjQ0Mjg2LC0xMjQzODI5M119
 -->
