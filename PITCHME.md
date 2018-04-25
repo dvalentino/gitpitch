@@ -24,7 +24,7 @@ a. Medical Physics Test Automation System
 b. Medical Informatics Data Analysis System
 +++
 ## Patient Dosimetry
-A patient dos
+A detector and reader for patient dosimetry in radiation therapy and imaging physics.
 ---
 # Education
 |                                Degree                                |                University               |
@@ -36,7 +36,7 @@ A patient dos
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTc0NzU1NywxNTgwMzc2MTgyLC02Mz
+eyJoaXN0b3J5IjpbLTIzMzgxMzgxMSwxNTgwMzc2MTgyLC02Mz
 I0NzYxNDQsOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyNDM4Mjkz
 XX0=
 -->
