@@ -47,7 +47,7 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjQ4MTMyOSwtMTIwMjgwNjY0OCwtMj
-MzODEzODExLDE1ODAzNzYxODIsLTYzMjQ3NjE0NCw5NzE1MTg3
-NjIsLTUyMDY0NDI4NiwtMTI0MzgyOTNdfQ==
+eyJoaXN0b3J5IjpbNzM2MzI0MTg1LDIwMjY0ODEzMjksLTEyMD
+I4MDY2NDgsLTIzMzgxMzgxMSwxNTgwMzc2MTgyLC02MzI0NzYx
+NDQsOTcxNTE4NzYyLC01MjA2NDQyODYsLTEyNDM4MjkzXX0=
 -->
