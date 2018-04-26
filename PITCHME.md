@@ -46,13 +46,15 @@ A detector and reader for patient dosimetry in radiation therapy and imaging phy
 
 ---
 # Internet of Things (IoT)
-## IoT Applications
-1.
+## IoT Market
+1. By 2020, IoT technology will be in 95% of con 
+Applications
+2. Consumer wear
 ---
 ## The end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1MjQ2OTc5LDczNjMyNDE4NSwyMDI2ND
-gxMzI5LC0xMjAyODA2NjQ4LC0yMzM4MTM4MTEsMTU4MDM3NjE4
-MiwtNjMyNDc2MTQ0LDk3MTUxODc2MiwtNTIwNjQ0Mjg2LC0xMj
-QzODI5M119
+eyJoaXN0b3J5IjpbLTI2NTE2NDA1Nyw3MzYzMjQxODUsMjAyNj
+Q4MTMyOSwtMTIwMjgwNjY0OCwtMjMzODEzODExLDE1ODAzNzYx
+ODIsLTYzMjQ3NjE0NCw5NzE1MTg3NjIsLTUyMDY0NDI4NiwtMT
+I0MzgyOTNdfQ==
 -->
